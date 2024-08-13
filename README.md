@@ -1,22 +1,17 @@
 [![MasterHead](https://static.vecteezy.com/system/resources/previews/034/930/929/non_2x/palestine-will-be-free-from-the-river-to-the-sea-illustration-hands-with-national-flags-of-palestine-free-vector.jpg)](https://static.vecteezy.com/system/resources/previews/034/930/929/non_2x/palestine-will-be-free-from-the-river-to-the-sea-illustration-hands-with-national-flags-of-palestine-free-vector.jpg)
-<h1 align="center">Hi 👋, I'm Thouria Tahari</h1>
+<h1 align="center">Hi 👋, I'm Thouria</h1>
 <h3 align="center">A 4th-year Student at the National School of Artificial Intelligence, Algiers | A Junior Data Scientist | Intern @CodSoft | Intern @Prodigy InfoTe.</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/800e1ce79aaa78d4e4d5eb324dfb2a8bb0164a42c6a2f6e636692bcc3f9480d4/68747470733a2f2f63646e2e686173686e6f64652e636f6d2f7265732f686173686e6f64652f696d6167652f75706c6f61642f76313638313536323530383336352f6b39367a307833566a2e676966">
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thouriajovianne" alt="thouriajovianne" /></a> </p>
 
 - 🔭 I’m currently working on **Generative AI and Data Science Internships Tasks**
 
 - 🌱 I’m currently learning **Generative AI**
 
-- 👯 I’m looking to collaborate on **creating softwares that helps the Palestinians in the gen*cide at Gaza**
+- 👯 I’m looking to collaborate on **creating software that helps Palestinians affected by the situation in Gaza**
 
-- 💬 Ask me about **Data Science, Machine Learning, Python, C++**
+- 💬 Ask me about **Data Science, Machine Learning**
 
 - 📫 How to reach me **thouria.tahari@ensia.edu.dz**
-
-- ⚡ Fun fact **Nothing is funny when your sister or brother is cut into pieces at Gaza.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
