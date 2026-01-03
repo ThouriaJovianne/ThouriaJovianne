@@ -1,5 +1,5 @@
 [![MasterHead](https://static.vecteezy.com/system/resources/previews/034/930/929/non_2x/palestine-will-be-free-from-the-river-to-the-sea-illustration-hands-with-national-flags-of-palestine-free-vector.jpg)](https://static.vecteezy.com/system/resources/previews/034/930/929/non_2x/palestine-will-be-free-from-the-river-to-the-sea-illustration-hands-with-national-flags-of-palestine-free-vector.jpg)
-# Hi, I'm Thouria Tahari 👋
+# Hi, I'm Thouria 👋
 
 🎓 **Final Year Student @ENSIA-AI** (National School of Artificial Intelligence)  
 🤖 **Specialization:** Data Science, Machine Learning & Deep Learning  
