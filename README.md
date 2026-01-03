@@ -1,32 +1,81 @@
 [![MasterHead](https://static.vecteezy.com/system/resources/previews/034/930/929/non_2x/palestine-will-be-free-from-the-river-to-the-sea-illustration-hands-with-national-flags-of-palestine-free-vector.jpg)](https://static.vecteezy.com/system/resources/previews/034/930/929/non_2x/palestine-will-be-free-from-the-river-to-the-sea-illustration-hands-with-national-flags-of-palestine-free-vector.jpg)
-<h1 align="center">Hi 👋, I'm Thouria</h1>
-<h3 align="center">A 4th-year Student at the National School of Artificial Intelligence, Algiers | A Junior Data Scientist | Intern @CodSoft | Intern @Prodigy InfoTe.</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/800e1ce79aaa78d4e4d5eb324dfb2a8bb0164a42c6a2f6e636692bcc3f9480d4/68747470733a2f2f63646e2e686173686e6f64652e636f6d2f7265732f686173686e6f64652f696d6167652f75706c6f61642f76313638313536323530383336352f6b39367a307833566a2e676966">
+# Hi, I'm Thouria Tahari 👋
 
-- 🔭 I’m currently working on **Generative AI and Data Science Internships Tasks**
+🎓 **Final Year Student @ ENSIA** (National School of Artificial Intelligence)  
+🤖 **Specialization:** Data Science, Machine Learning & Deep Learning  
+📊 **Former Data Science IT Leader** @ Google Developer Students Club  
 
-- 🌱 I’m currently learning **Generative AI**
+## 🔬 Current Work
+Working on my final year project: **Temporal Knowledge Graph Representation Learning for Explainable Climate Risk Forecasting** - Building an explainable AI system for predicting climate risks using temporal knowledge graphs and deep learning.
 
-- 👯 I’m looking to collaborate on **creating software that helps Palestinians affected by the situation in Gaza**
+## 💡 About Me
+- 🌍 Based in Algeria, passionate about AI for social impact
+- 🎯 Specialized in: NLP, Computer Vision, Generative AI, Explainable AI
+- 🚀 Experience with: Production systems, LLM fine-tuning, GANs, Knowledge Graphs
+- 🧠 Interests: Climate AI, Educational Technology, Islamic-friendly AI content
+- 📚 Active in AI community - organized/participated in 8+ AI events and hackathons
 
-- 💬 Ask me about **Data Science, Machine Learning**
+## 🛠️ Tech Stack
 
-- 📫 How to reach me **thouria.tahari@ensia.edu.dz**
+**Languages:** Python, R, C++, Java, SQL  
+**ML/DL Frameworks:** PyTorch, TensorFlow, Keras  
+**Specialized:** LLM Fine-tuning, RAG, GANs, Knowledge Graphs, Ontologies  
+**Data & BI:** Looker, PowerBI, Pandas, NumPy  
+**Tools:** Git, Streamlit, Gradio, ROS, Beautiful Soup  
+**Databases:** Oracle, MySQL  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/thouriatahari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thouriatahari" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/thouriatahari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thouriatahari" height="30" width="40" /></a>
-<a href="https://kaggle.com/thouriastudenttahari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="thouriastudenttahari" height="30" width="40" /></a>
-<a href="https://fb.com/thouria tahari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thouria tahari" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.com/invite/gbMY2QDa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/invite/gbMY2QDa" height="30" width="40" /></a>
-</p>
+## 🌟 Featured Projects
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### 🌦️ Climate Risk Forecasting (Ongoing - PFE)
+Explainable AI system using temporal knowledge graphs for predicting droughts, floods, wildfires, and heatwaves for smart agriculture.
+- Tech: Knowledge Graphs, Deep Learning, Causal Inference
+- Impact: Expert-level interpretability for climate risk assessment
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thouriajovianne&show_icons=true&locale=en&layout=compact" alt="thouriajovianne" /></p>
+### 📚 Teaching Algerian History with LLMs
+Interactive educational tool using fine-tuned LLMs + RAG to teach Algerian history across different educational stages.
+- Tech: LLM Fine-tuning, RAG, NLP
+- [View Project →](link)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thouriajovianne&show_icons=true&locale=en" alt="thouriajovianne" /></p>
+### 🎨 Image Style Transfer using CNNs
+Artistic style transfer implementation based on Gatys et al.'s research using VGG19.
+- Tech: PyTorch, VGG19, Neural Style Transfer
+- [View Project →](link)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thouriajovianne&" alt="thouriajovianne" /></p>
+### 🎨 Image Colorization GAN
+U-Net GAN architecture trained to colorize grayscale images.
+- Tech: GANs, U-Net, PyTorch
+- [View Project →](link)
+
+### 📝 Arabic Text Summarization
+Fine-tuned AraGPT2 for Arabic text summarization.
+- Tech: Transformers, AraGPT2, NLP
+- [View Project →](link)
+
+### 🤖 Smart Manufacturing Control System
+Ontology-based system for automotive production line using robotic agents.
+- Tech: Ontology (Protégé), ROS, Control Systems
+- [View Project →](link)
+
+[View All Projects →](link-to-repositories)
+
+## 📊 GitHub Stats
+![Thouria's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+## 🎓 Certifications
+- Generative AI Bootcamp - Limitless Learning
+- Deep Learning Specialization - Limitless Learning
+- Advanced Machine Learning - Limitless Learning
+- [View all certifications →](LinkedIn)
+
+## 🏆 Leadership & Community
+- **Data Science IT Department Leader** @ Google Developer Students Club ENSIA
+- **IT Mentor** @ ENSIA Tech Community Club
+- **Event Organizer/Participant:** AI Fest Datathon (2023, 2024), AIFA Conference, AI Summit, and more
+
+## 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thouria.tahari@ensia.edu.dz)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](your-github)
+
+---
+💡 *Open to collaborations on AI projects, especially in climate tech, education, and social impact.*
