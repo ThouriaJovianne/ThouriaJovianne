@@ -16,7 +16,7 @@ Working on my final year project: **Temporal Knowledge Graph Representation Lear
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python, R, C++, Java, SQL  
+**Languages:** Python, R, C++, SQL  
 **ML/DL Frameworks:** PyTorch, TensorFlow, Keras  
 **Specialized:** LLM Fine-tuning, RAG, GANs, Knowledge Graphs, Ontologies  
 **Data & BI:** Looker, PowerBI, Pandas, NumPy  
