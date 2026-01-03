@@ -3,7 +3,6 @@
 
 🎓 **Final Year Student @ ENSIA** (National School of Artificial Intelligence)  
 🤖 **Specialization:** Data Science, Machine Learning & Deep Learning  
-📊 **Former Data Science IT Leader** @ Google Developer Students Club  
 
 ## 🔬 Current Work
 Working on my final year project: **Temporal Knowledge Graph Representation Learning for Explainable Climate Risk Forecasting** - Building an explainable AI system for predicting climate risks using temporal knowledge graphs and deep learning.
@@ -12,7 +11,7 @@ Working on my final year project: **Temporal Knowledge Graph Representation Lear
 - 🌍 Based in Algeria, passionate about AI for social impact
 - 🎯 Specialized in: NLP, Computer Vision, Generative AI, Explainable AI
 - 🚀 Experience with: Production systems, LLM fine-tuning, GANs, Knowledge Graphs
-- 🧠 Interests: Climate AI, Educational Technology, Islamic-friendly AI content
+- 🧠 Interests: Climate AI, Educational Technology
 - 📚 Active in AI community - organized/participated in 8+ AI events and hackathons
 
 ## 🛠️ Tech Stack
@@ -68,14 +67,13 @@ Ontology-based system for automotive production line using robotic agents.
 - [View all certifications →](LinkedIn)
 
 ## 🏆 Leadership & Community
-- **Data Science IT Department Leader** @ Google Developer Students Club ENSIA
 - **IT Mentor** @ ENSIA Tech Community Club
 - **Event Organizer/Participant:** AI Fest Datathon (2023, 2024), AIFA Conference, AI Summit, and more
 
 ## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thouria-tahari-144897247/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thouria.tahari@ensia.edu.dz)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](your-github)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ThouriaJovianne)
 
 ---
 💡 *Open to collaborations on AI projects, especially in climate tech, education, and social impact.*
