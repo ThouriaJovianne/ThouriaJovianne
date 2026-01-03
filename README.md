@@ -33,7 +33,7 @@ Explainable AI system using temporal knowledge graphs for predicting droughts, f
 ### 📚 Teaching Algerian History with LLMs
 Interactive educational tool using fine-tuned LLMs + RAG to teach Algerian history across different educational stages.
 - Tech: LLM Fine-tuning, RAG, NLP
-- [View Project →](link)
+- [View Project →](https://github.com/ThouriaJovianne/algerian-history-llm-educator)
 
 ### 🎨 Image Style Transfer using CNNs
 Artistic style transfer implementation based on Gatys et al.'s research using VGG19.
